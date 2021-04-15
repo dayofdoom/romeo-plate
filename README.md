@@ -4,3 +4,5 @@ Hey you. You need a plate for your Romeo v1 board? Did you look all around and e
 
 So I made one from the files on the official repo. I cut mine with 1.5mm POM and it works just like it should.
 
+Here's official repo: https://github.com/coseyfannitutti/romeo
+
